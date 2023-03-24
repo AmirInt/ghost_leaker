@@ -1,4 +1,4 @@
-# info-leaking-ghost
+# ghost_leaker
 
 This educational project attempts to create a simple client-server pair in which the client, or malware, running on the victim's machine, sends some information from the victim's system to the server.
 
